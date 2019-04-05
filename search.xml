@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[你好世界]]></title>
+    <url>%2F2019%2F04%2F05%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[这里是匠果博客 欢迎访客]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[拥抱HEXO]]></title>
+    <url>%2F2019%2F04%2F04%2F%E6%8B%A5%E6%8A%B1HEXO%2F</url>
+    <content type="text"><![CDATA[正式从wordpress转型到HEXO 还有许多要学习的地方 还请多多指教]]></content>
+      <categories>
+        <category>前端</category>
+      </categories>
+      <tags>
+        <tag>前端</tag>
+        <tag>开源项目</tag>
+        <tag>前沿科技</tag>
+      </tags>
+  </entry>
+</search>
